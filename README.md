@@ -5,7 +5,8 @@ Student ID: 178061230
 Course: WEB322
 
 Description
-This project is Assignment 1 for WEB322. It demonstrates:
+This project is Assignment 1 for WEB322. 
+It demonstrates:
 Creating a Node.js module (projects.js) that loads project and sector data from JSON files
 Functions that return data using Promises:
 initialize()
