@@ -26,3 +26,4 @@ This app is deployed using Vercel.
 
 Live URL
 👉 Assignment 1 Deployment
+web322-assignment01.vercel.app
